@@ -1,2 +1,2 @@
-test-client-id='***REMOVED***1'
-test-client-pass='***REMOVED***2'
+test-client-id='exampleId'
+test-client-pass='***'
