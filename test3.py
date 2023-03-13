@@ -1,2 +1,2 @@
-token='exampleToken'
-tokenpass='efghs'
+token='xyz'
+tokenpass='efghi'
