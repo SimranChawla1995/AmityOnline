@@ -1,3 +1,3 @@
 #just to test bfg repo cleaner
-clientId='***REMOVED***'
-clientPass='***REMOVED***4556'
+clientId='1234'
+clientPass='12344556'
